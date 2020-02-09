@@ -1,0 +1,10 @@
+{
+	"author": "Bjazmoore",
+	"email": "",
+	"website": "https://bitsbytesandpieces.com",
+	"version": "1.0",
+	"releaseDate": "2020-02-10",
+	"license": "MIT",
+	"compatible": "3.0, 3.10, 3.11",
+	"notes": "Adds a section to the sidebar linking to the admin panel and reporting current logon state and user."
+}

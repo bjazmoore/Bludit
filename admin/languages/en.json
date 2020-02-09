@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Admin",
+		"description": "Adds a section to the sidebar linking to the admin panel and reporting current logon state and user."
+	}
+}
